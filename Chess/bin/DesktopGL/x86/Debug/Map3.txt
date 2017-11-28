@@ -1,0 +1,13 @@
+24
+10
+2
+(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)##(Durchsbruchwagen,1)##(FW,1)(FW,1)(FW,1)(FW,1)##(Durchsbruchwagen,1)##(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)
+(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)(Panther,1)
+#####(Hellcat,1)(Hellcat,1)##########(Hellcat,1)(Hellcat,1)#####
+########################
+(Water,2)(Water,2)(Water,2)###(Water,2)(Water,2)(Water,2)###(Water,2)(Water,2)(Water,2)###(Water,2)(Water,2)(Water,2)###
+(Water,2)(Water,2)(Water,2)###(Water,2)(Water,2)(Water,2)###(Water,2)(Water,2)(Water,2)###(Water,2)(Water,2)(Water,2)###
+########################
+#####(Hellcat,0)(Hellcat,0)##########(Hellcat,0)(Hellcat,0)#####
+(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)(Tiger,0)
+(Spitfire,0)(Spitfire,0)(Spitfire,0)(Spitfire,0)(Spitfire,0)##(T-34,0)##(Warhalk,0)(Warhalk,0)(Warhalk,0)(Warhalk,0)##(T-34,0)##(Spitfire,0)(Spitfire,0)(Spitfire,0)(Spitfire,0)(Spitfire,0)

@@ -1,0 +1,13 @@
+25
+10
+2
+###(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)#############(Messerschmitt,1)(Messerschmitt,1)(Messerschmitt,1)###
+#####(Panther,1)(Panther,1)(Panther,1)#########(Panther,1)(Panther,1)(Panther,1)#####
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#####(T-34,0)(T-34,0)(T-34,0)#########(T-34,0)(T-34,0)(T-34,0)#####
+#(Spitfire,0)(Spitfire,0)(Spitfire,0)###############(Spitfire,0)(Spitfire,0)(Spitfire,0)###

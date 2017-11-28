@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Utility/DebugDot.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Utility/HorizontalLine.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Utility/VerticalLine.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/HUDItems/TileInspector.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/BlackBishop.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/BlackKing.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/BlackKnight.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/BlackPawn.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/BlackQueen.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/BlackRook.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/WhiteBishop.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/WhiteKing.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/WhiteKnight.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/WhitePawn.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/WhiteQueen.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/Medieval/WhiteRook.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Tiles/Medieval/BlackTile.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Tiles/Medieval/WhiteTile.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Utility/BlueDot.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/HUDItems/Common/RectAngle.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Fonts/Normal.spritefont</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/HUDItems/EditorHUDS/WhiteRectangle.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/HUDItems/Common/Square.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Tiles/WW2/BlackTile.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Tiles/WW2/WhiteTile.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Tiger.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Yak 9k.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Durchsbruchwagen.png</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/FW.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Hellcat.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Messerschmitt.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/P-30.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Panther.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Spitfire.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/T-34.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Warhalk.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Wildcat.jpg</File>
+    <File>D:/Projects/C#/Chess/Chess/Content/Game/Textures/Figures/WW2/Water.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
